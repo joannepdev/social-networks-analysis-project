@@ -334,7 +334,7 @@ Its accuracy value is 0.998702.
 
 ## SJC
 
-The score distribution of Jaccard similarity of common neighbors (SCN) measure has been calculated.
+The score distribution of Jaccard similarity of common neighbors (SJC) measure has been calculated.
 
 The minimum SJC value is 0.000000, the maximum value is 0.500000, its mean value is 0.002054 and its median value is 0.000000.
 
